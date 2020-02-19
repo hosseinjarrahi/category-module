@@ -21,5 +21,6 @@
         "psr-4": {
             "Modules\\Category\\": ""
         }
-    }
+    },
+    "type" : "laravel-module"
 }
